@@ -85,17 +85,3 @@ Public marketplace logs capture transaction item amounts but lack itemized opera
    * **Target Milestones:** Compress blended CAC to **R$ 19.50** while accelerating 90-day margin recovery to **R$ 23.50**, cutting CAC payback from **15.8 months down to under 8 months**.
 
 ---
-
-## 📂 Repository Structure
-
-```text
-├── data/
-│   ├── olist_cohort_transactions.csv      # Cleaned fact table with cohort indices
-│   └── olist_unit_economics_summary.csv   # Monthly acquisition cost and cohort summary
-├── notebooks/
-│   └── cohort_financial_modeling.ipynb    # Python ETL, margin derivation & cohort matrix logic
-├── dashboard/
-│   └── financial_kpi_dashboard.pbix       # Interactive 2-page Power BI report
-├── docs/
-│   └── executive_summary_report.pdf       # 2-page executive presentation report
-└── README.md
