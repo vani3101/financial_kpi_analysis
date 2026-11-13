@@ -75,7 +75,7 @@ Public marketplace logs capture transaction item amounts but lack itemized opera
 
 1. **The Month 1 Retention Cliff**
    * *Finding:* Customer retention drops from **100% to an average of 0.49% in Month 1** (ranging between 0.18% and 0.72%). Over 99% of customers do not make a second purchase within 30 days.
-   * *Reason:* Catalog concentration in durable goods (home decor, furniture, automotive parts) where purchase intervals naturally exceed 18 months.
+   * *Likely Reason:* Catalog concentration in durable goods (home decor, furniture, automotive parts) where purchase intervals naturally exceed 18 months.
 2. **Extended CAC Payback Horizon**
    * *Finding:* Initial purchase gross margin contribution averages **R$ 19.10** against an acquisition cost of **R$ 23.37**, creating an immediate initial deficit of **-R$ 4.27 per customer**.
    * *Impact:* Due to sub-1% repeat rates, cumulative margin reaches only **R$ 19.81 by Month 12**, extending the full CAC payback timeline to **15.8 months** (exceeding standard 8–12 month venture runway benchmarks).
